@@ -1,4 +1,11 @@
 {
+"name": "nodejsexamples",
+"version": "1.0.0",
+"description": "This Project explains Node JS examples",
+"main": "app.js",
+"publishConfig": {
+  "registry": "http://192.168.1.40:9090/telecom-spec/repository/nokia-nodejsrepo/"
+},  
   "name": "docker_web_app",
   "version": "1.0.0",
   "description": "Node.js on Docker",
